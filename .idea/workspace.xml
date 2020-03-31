@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78a3da99-ce68-44cc-ada9-49f4d9b1fb8c" name="Default Changelist" comment="" />
+    <list default="true" id="78a3da99-ce68-44cc-ada9-49f4d9b1fb8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mb_projects/posts/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/mb_projects/posts/tests.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mb_projects/manage.py" />
   </component>
   <component name="RunManager">
@@ -58,17 +63,29 @@
       <option name="presentableId" value="Default" />
       <updated>1585642319239</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1585645941443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585645941444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585643077857">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1585643077857" />
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1585645705426">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1585645836345">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585645705426" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585645836345" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585643075615">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
